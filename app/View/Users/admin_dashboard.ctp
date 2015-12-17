@@ -1,0 +1,1 @@
+<a href="/cakephp/admin/users/logout">Log Out </a>
